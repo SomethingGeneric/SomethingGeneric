@@ -2,6 +2,7 @@
 
 <!--
 **SomethingGeneric/SomethingGeneric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 - 🔭 I’m currently working on `Gamerbot`, `VoiceAssistant`, and many other things
 - 🌱 I’m currently learning how to do networking ok
