@@ -12,3 +12,9 @@
 - 📫 How to reach me: VeryGeneric#2100 on Discord.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've been to every continent except Africa.
+
+<p align="center">
+<a href="https://wakatime.com/@SomethingGeneric">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=SomethingGeneric&amp;layout=compact&amp;title_color=000" alt="WakaTime weekly statistics">
+</a>
+</p>
