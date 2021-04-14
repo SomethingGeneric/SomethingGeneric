@@ -1,4 +1,5 @@
 ### Hi there 👋
+### If you're looking for a project that used to be here, chances are it's at https://git.xhec.us/ now. :)
 
 <!--
 **SomethingGeneric/SomethingGeneric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
