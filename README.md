@@ -8,7 +8,6 @@
 - ⚡ Fun fact: I've been to every continent except Africa.
 
 <br />
-<a href="https://github.com/NNBnh">
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=SomethingGeneric&theme=dark&show_icons=true)">
-  <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=SomethingGeneric&theme=dark">
-</a>
+
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=SomethingGeneric&theme=dark&show_icons=true)">
+<img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=SomethingGeneric&theme=dark">
