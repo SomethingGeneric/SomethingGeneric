@@ -1,8 +1,7 @@
+### A lot of my stuff has moved to https://git.xhec.us
+
 ### Hi there 👋
-- 🔭 I’m currently working on https://github.com/crystal-linux
-- 🌱 I’m currently learning how to do networking ok
-- 👯 I’m looking to collaborate on basically anything
-- 💬 Ask me about: Python or Linux
+- 🔭 I’m currently working on https://getcryst.al
 - 📫 How to reach me: VeryGeneric#2100 on Discord.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've been to every continent except Africa.
