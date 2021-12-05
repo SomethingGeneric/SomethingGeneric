@@ -1,4 +1,8 @@
 ### A lot of my stuff has moved to https://git.xhec.us
+### Or maybe: https://git.tar.black/matt
+### Or maybe: https://gitlab.bucknell.edu/mdc028
+
+### Most of the stuff here is archived/unused
 
 ### Hi there 👋
 - 🔭 I’m currently working on https://getcryst.al
