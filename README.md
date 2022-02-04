@@ -1,5 +1,5 @@
 ### A lot of my stuff has moved to https://git.tar.black/matt
-### Or maybe: https://gitlab.bucknell.edu/mdc028
+### Or maybe: https://git.xhec.us/matt
 
 ### Most of the stuff here is archived/unused
 
