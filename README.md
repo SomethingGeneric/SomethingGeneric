@@ -1,7 +1,3 @@
-### A lot of my stuff has moved to https://git.tar.black/matt
-
-### Most of the stuff here is archived/unused
-
 ### Hi there 👋
 - 🔭 I’m currently working on https://getcryst.al
 - 📫 How to reach me: VeryGeneric#2100 on Discord.
