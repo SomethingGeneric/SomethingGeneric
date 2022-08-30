@@ -1,0 +1,24 @@
+---
+title: perpetually exhausted
+icon:  https://media.discordapp.net/attachments/799373955324313613/972049061060423730/avatar.png
+name:  matt
+age:   20
+pronouns: 
+     - he/him
+contacts:
+     - "email: matt@tar.black"
+     - "another email: matthew.compton@mymail.champlain.edu"
+     - "discord: ratthew#2121"
+     - "twitter: @MattComp10"
+urls:
+     - "https://xhec.us"
+     - "http://getcryst.al"
+
+colors:
+  background: "#0e0e0eff"
+  foreground: "#eeeeeeff"
+  name:       "#696969ff"
+  info:       "#eeeeeecc"
+  url:
+    normal:   "#eeeeee9d"
+    hover:    "#eeeeeeb9"
