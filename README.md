@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on https://getcryst.al
 - 📫 How to reach me: `ratthew#2121` on Discord, or:
 ```bash
-echo "email: $(base64 -d 'bWF0dFthdF10YXJbZG90XWJsYWNr')"
+echo "email: $(echo "bWF0dFthdF10YXJbZG90XWJsYWNr" | base64 -d)"
 ```
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've been to every continent except Africa.
