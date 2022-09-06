@@ -1,6 +1,9 @@
 ### Hi there 👋
 - 🔭 I’m currently working on https://getcryst.al
-- 📫 How to reach me: VeryGeneric#2100 on Discord.
+- 📫 How to reach me: `ratthew#2121` on Discord, or:
+```bash
+echo "email: $(base64 -d 'bWF0dFthdF10YXJbZG90XWJsYWNr')"
+```
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've been to every continent except Africa.
 
