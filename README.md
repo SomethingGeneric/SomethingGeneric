@@ -1,7 +1,7 @@
 ### Hi there 👋
-- Some of my stuff is at https://gitea.xhec.dev
+- Some of my stuff is at https://gitea.xhec.dev or https://git.getcryst.al/matt
 - 🔭 I’m currently working on https://getcryst.al
-- 📫 How to reach me: `ratthew#2121` on Discord, or:
+- 📫 How to reach me: `ratthew#6909` on Discord, or:
 ```bash
 echo "email: $(echo "bWF0dFthdF10YXJbZG90XWJsYWNr" | base64 -d)"
 ```
