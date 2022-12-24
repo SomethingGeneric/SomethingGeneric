@@ -1,5 +1,5 @@
 ### Hi there 👋
-- Some of my stuff is at https://gitea.xhec.dev or https://git.getcryst.al/matt
+- Some of my stuff is at https://git.getcryst.al/matt
 - 🔭 I’m currently working on https://getcryst.al
 - 📫 How to reach me: `ratthew#6909` on Discord, or:
 ```bash
