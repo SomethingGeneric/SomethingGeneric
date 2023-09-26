@@ -1,2 +1,1 @@
-# This project has moved:
-[GitLab Repository](https://gitlab.mattcompton.dev/matt/SomethingGeneric)
+# Most of my stuff has moved: https://git.mattcompton.dev/matt
