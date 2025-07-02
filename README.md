@@ -13,9 +13,9 @@
 
 - 📝 I regularly write articles on [https://mattcompton.dev/blog/](https://mattcompton.dev/blog/)
 
-- 💬 Ask me about **Linux, NixOS, Crystal Linux**
+- 💬 Ask me about **Linux, Ansible, Windows SysAdmin**
 
-- 📫 How to reach me **matt@getcryst.al**
+- 📫 How to reach me **matt@xhec[dot]dev**
 
 - 📄 Read my resume [https://mattcompton.dev](https://mattcompton.dev)
 
