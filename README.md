@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SomethingGeneric" alt="somethinggeneric" /></a> </p> -->
 
-- 🔭 I’m currently working on [GooberEats](https://github.com/SomethingGeneric/GooberEats)
+<!-- - 🔭 I’m currently working on [GooberEats](https://github.com/SomethingGeneric/GooberEats) -->
 
 - 🌱 I’m currently learning **Rust, Java (for Android)**
 
