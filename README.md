@@ -7,7 +7,7 @@
 
 <!-- - 🔭 I’m currently working on [GooberEats](https://github.com/SomethingGeneric/GooberEats) -->
 
-- 🌱 I’m currently learning **Rust, Java (for Android)**
+- 🌱 I’m currently learning **Rust/Go, Java (for Android)**
 
 - 👨‍💻 All of my projects are available at [https://mattcompton.dev/](https://mattcompton.dev/)
 
